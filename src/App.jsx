@@ -1,5 +1,5 @@
 import './App.css'
-import Test_2 from './testler/Test_2'
+// import Todu from './testler/Todu'
 import { Calc } from './testler/redux_main'
 
 function App() {
@@ -7,7 +7,8 @@ function App() {
   return (
     <>
       <Calc></Calc>
-      <Test_2></Test_2>
+      {/* <Test_2></Test_2> */}
+      {/* <Todu></Todu> */}
     </>
   )
 }
